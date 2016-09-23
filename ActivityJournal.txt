@@ -1,0 +1,92 @@
+SWEN-250 Activity Journal
+Ruby Diet Manager
+
+Name: Jake Bashaw
+
+================================================================
+Level 1 Food DB Load Start
+Estimated Time: 2 hours
+Plan for this level: Extensively read the project page and understand
+what I will have to accomplish for the project. After this I will,
+brainstorm potential ways to complete the tasks at hand.
+
+Level 1 Food DB Load Complete
+Actual Time: ~4 hours
+Lessons learned, problems encountered, obstacles overcome, etc.
+This part took way longer than expected. I kept thinking of endless amounts
+of ways to go about making this diet manager. I couldn't seem to pick a way
+to develop the product that I felt okay with. I finally decided on a structure and went for it.
+Most of my time wa spent splitting up the manager into several logical files/classes.
+
+================================================================
+Level 2 Print & Find Start
+Estimated Time: 2 Hours
+Plan for this level: Read description for print name and find prefix.
+Attmept to code the two functions. Resort to the Ruby docs and or TutorialsPoint
+for assistance as required.
+
+Level 2  Print & Find Complete
+Actual Time: 2 Hours
+I misread the level 1 requirements and assumed that I needed both8 types of
+printing for part one. Much to my enjoyment that was a part of this level, so that significantly
+cut down my solution time for this level. find prefix was a simple iteration through the
+db finding and print foods that had the given prefix. I updated my completion time from 30 min
+to 2 hours. for my tests I had to find a way to store stdout to a string. This isnt fun trust me.
+
+================================================================
+Level 3 Database Update Start
+Estimated Time: 2 hours
+Plan for this level: My roommate recommended that  simply recycle code from
+loading into the database to use with adding new foods into the database. In my
+head it looks like I will just simply be reading in from user input rather than
+a file. Doesn't sound too hard. Saving seems rather difficult seeing as I have
+never dealt with writing to a file before in really any language.
+
+Level 3 Database Update Complete
+Actual Time: 5 hours
+Lessons learned, problems encountered, obstacles overcome, etc.
+Most of problems were using .split() to parse the input for adding new foods
+and recipes to the database. I tried stringing .split()'s together which didn't
+work the way I intended them to. As for saving the database, all it took was a simple
+google search to learn how writing to a file works. User input parsing is no fun.
+I was able to use many of class methods such as getters and checker methods to
+help finish this part in a timely manner. I also spent some time renaming some
+variables to make a little bit more sense. A general side note, most of this
+part's development took place on a car ride to and from Letchworth state park.
+I highly recommend you visit it sometime!
+================================================================
+Level 4 Logging Foods Start
+Estimated Time: 3 Hours
+Plan for this level: Reuse some file writing code to write to my log file.
+I plan on using a hash much like the food db to keep track of logged foods.
+the keysn will be the date, and the logged foods will be in an array for each key.
+Hopefully this works.
+
+Level 4 Logging Foods Complete
+Actual Time: 4 Hours
+Lessons learned, problems encountered, obstacles overcome, etc.
+I had the most trouble getting m,y information from the hah that I had made into
+a string to be written to my log file. I had loops inside of loops and the ruby
+interperter didnt like that very much. I also ended up reworking a few functions
+along the way.
+
+================================================================
+Level 5 Show & Delete Start
+Estimated Time: ?
+Plan for this level: I have 40 minutes left, I will get as much as I can done......
+
+Level 5 Show & Delete Complete
+Actual Time: N/A
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+
+================================================================
+Overall Summary
+Estimated Total Time	20 hours
+Actual Total Time	16 hours
+Project reflection: All in all this project was rather tough. The open ended structure
+allowed for nearly endless possibilities for creating the end goal. Although I didn't finish all of
+the levels, I believe that I learned a significant amoutn about Ruby as a language and that makes me
+rather happy. This is one of the first times that I have programmed something that had and actual real
+worl use and it feels really cool. Outside of the immense amount of time i spent working on the project
+I had a great time. I am relieved however that it is over.
