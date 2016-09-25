@@ -12,5 +12,3 @@ Files:
 - Main.rb         - Main file that is run to start the program
 - Recipe.rb       - Recipe class that hold a list a of BasicFoods as well as functions to convert to a string and convert to a dbLine
 - test_diet.rb    - File that houses all of the unit tests for the project
-
-Run the Main.rb file to start the program
