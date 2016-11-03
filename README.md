@@ -12,4 +12,4 @@ Files:
 - Main.rb         - Main file that is run to start the program
 - Recipe.rb       - Recipe class that hold a list a of BasicFoods as well as functions to convert to a string and convert to a dbLine
 - test_diet.rb    - File that houses all of the unit tests for the project
-- WARNING: Any current CS2 students that choose to use this code, you run the (likely) risk of obtaining a failing grade for both this project and the course as a whole
+- WARNING: Any current PSE students that choose to use this code, you run the (likely) risk of obtaining a failing grade for both this project and the course as a whole
