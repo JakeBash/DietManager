@@ -1,4 +1,4 @@
-#PSE Diet Manager Project
+#Diet Manager Project
 
 ###Files:
 - __ActivityJournal.txt__ - Text file used to mark progress on each respective section or "part" of the project
