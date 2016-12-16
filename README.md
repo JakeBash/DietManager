@@ -1,4 +1,4 @@
-#Diet Manager Project
+# PSE Diet Manager Project
 
 ###Introduction:
 - This was a project that my class had to complete for SWEN 256 (Personal Software Engineering) at RIT. Completed in the Spring Semester of 2016.
