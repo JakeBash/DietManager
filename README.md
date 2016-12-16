@@ -1,5 +1,8 @@
 #Diet Manager Project
 
+###Introduction:
+- This was a project that my class had to complete for SWEN 256 (Personal Software Engineering) at RIT. Completed in the Spring Semester of 2016.
+
 ###Files:
 - __ActivityJournal.txt__ - Text file used to mark progress on each respective section or "part" of the project
 - __BasicFood.rb__    - Basic Food class that assigns a name and a calorie count to a Basic Food item
