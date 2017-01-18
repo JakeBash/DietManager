@@ -15,4 +15,6 @@
 - __Main.rb__         - Main file that is run to start the program
 - __Recipe.rb__       - Recipe class that hold a list a of BasicFoods as well as functions to convert to a string and convert to a dbLine
 - __test_diet.rb__    - File that houses all of the unit tests for the project
-- __WARNING:__ Any current PSE students that choose to use this code, you run the (likely) risk of obtaining a failing grade for both this project and the course as a whole
+
+###WARNING: 
+- Any current PSE students that choose to use this code, you run the (likely) risk of obtaining a failing grade for both this project and the course as a whole
